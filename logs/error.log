@@ -1,0 +1,5 @@
+[Mon Nov 19 15:55:58 2012] [error] [client 192.88.166.1] File does not exist: /home/fuzzmz/www/d3.fuzz.me.uk/favicon.ico
+[Mon Nov 19 16:10:33 2012] [error] [client 88.119.11.127] File does not exist: /home/fuzzmz/www/d3.fuzz.me.uk/favicon.ico
+[Mon Nov 19 16:29:28 2012] [error] [client 121.45.253.46] File does not exist: /home/fuzzmz/www/d3.fuzz.me.uk/favicon.ico
+[Mon Nov 19 20:18:27 2012] [error] [client 95.108.151.244] File does not exist: /home/fuzzmz/www/d3.fuzz.me.uk/robots.txt
+[Mon Nov 19 21:20:37 2012] [error] [client 89.33.181.100] File does not exist: /home/fuzzmz/www/d3.fuzz.me.uk/favicon.ico
